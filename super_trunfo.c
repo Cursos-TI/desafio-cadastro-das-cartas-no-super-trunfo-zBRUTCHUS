@@ -3,7 +3,7 @@
 int main(){
 
     //carta 1
-    char Estado1[20];
+    char Estado1;
     char Código1[20];
     char Cidade1[20];
     int População1;
