@@ -5,7 +5,7 @@ int main(){
     //carta 1
     char estado1[20];
     char codigo1[10];
-    char cidade1[20];
+    char cidade1[30];
     int populacao1;
     float area1;
     float pib1;
@@ -14,7 +14,7 @@ int main(){
     //carta 2
     char estado2[20];
     char codigo2[10];
-    char Cidade2[20];
+    char Cidade2[30];
     int populacao2;
     float area2;
     float pib2;
