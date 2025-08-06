@@ -27,13 +27,13 @@ int main(){
     //lendos as informações da carta 1 digitadas pelo usuário.
     printf("CARTA 01: \n");
     printf("Digite o nome de um Estado: ");
-    scanf("%s", &Estado1);
+    scanf("%s", Estado1);
 
     printf("Digite o Código da Cidade: ");
-    scanf("%s", &Código1);
+    scanf("%s", Código1);
 
     printf("Digite o nome de uma cidade: ");
-    scanf("%s", &Cidade1);
+    scanf("%s", Cidade1);
 
     printf("Digite o número da População da Cidade: ");
     scanf("%d", &População1);
@@ -65,13 +65,13 @@ int main(){
 
     //lendo as informações da carta 2 digitadas pelo usuário.
     printf("Digite o nome de um Estado: ");
-    scanf("%s", &Estado2);
+    scanf("%s", Estado2);
 
     printf("Digite o Código da cidade: ");
-    scanf("%s", &Código2);
+    scanf("%s", Código2);
 
     printf("Digite o nome de uma cidade: ");
-    scanf("%s", &Cidade2);
+    scanf("%s", Cidade2);
 
     printf("Digite o número da População da Cidade: ");
     scanf("%d", &População2);
