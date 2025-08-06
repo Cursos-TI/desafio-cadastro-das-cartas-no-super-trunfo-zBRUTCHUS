@@ -14,7 +14,7 @@ int main(){
     //carta 2
     char estado2[20];
     char codigo2[10];
-    char Cidade2[30];
+    char cidade2[30];
     int populacao2;
     float area2;
     float pib2;
@@ -55,7 +55,7 @@ int main(){
     printf("Nome da Cidade: %s \n", cidade1);
     printf("População: %d milhões \n", populacao1);
     printf("Área: %.2f km² \n", area1);
-    printf("PIB: %.2f Bilhões  \n", PIB1);
+    printf("PIB: %.2f Bilhões  \n", pib1);
     printf("Número de pontos turísticos: %d\n", pontos1);
     printf("\n");
 
@@ -89,7 +89,7 @@ int main(){
     //exibindo as informações digitadas da carta 2
     printf("CARTA 02: \n"); 
     printf("Estado: %s \n", estado2);
-    printf("Código da cidade: %s \n", Codigo2);
+    printf("Código da cidade: %s \n", codigo2);
     printf("Nome da Cidade: %s \n", cidade2);
     printf("População: %d milhões \n", populacao2);
     printf("Área: %.2f km² \n", area2);
