@@ -3,6 +3,7 @@
 int main(){
 
     //carta 1
+    // declaração de variaveis para armazenar as informações da carta 1
     char estado1[20];
     char codigo1[10];
     char cidade1[30];
@@ -12,6 +13,7 @@ int main(){
     int pontos1;
 
     //carta 2
+    //declaração de variaveis para armazenar as informações da carta 2
     char estado2[20];
     char codigo2[10];
     char cidade2[30];
