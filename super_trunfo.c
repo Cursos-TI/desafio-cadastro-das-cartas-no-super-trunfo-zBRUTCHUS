@@ -13,7 +13,7 @@ int main(){
 
     //carta 2
     char Estado2[3];
-    char Código2[20];
+    char Código2[3];
     char Cidade2[20];
     int População2;
     float Area2;
