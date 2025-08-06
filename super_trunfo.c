@@ -3,8 +3,8 @@
 int main(){
 
     //carta 1
-    char Estado1;
-    char Código1[20];
+    char Estado1[3];
+    char Código1[3];
     char Cidade1[20];
     int População1;
     float Area1;
@@ -30,10 +30,10 @@ int main(){
     scanf("%s", &Estado1);
 
     printf("Digite o Código da Cidade: ");
-    scanf("%s", &Código1),
+    scanf("%s", &Código1);
 
     printf("Digite o nome de uma cidade: ");
-    scanf("%s", &Cidade1),
+    scanf("%s", &Cidade1);
 
     printf("Digite o número da População da Cidade: ");
     scanf("%d", &População1);
@@ -68,10 +68,10 @@ int main(){
     scanf("%s", &Estado2);
 
     printf("Digite o Código da cidade: ");
-    scanf("%s", &Código2),
+    scanf("%s", &Código2);
 
     printf("Digite o nome de uma cidade: ");
-    scanf("%s", &Cidade2),
+    scanf("%s", &Cidade2);
 
     printf("Digite o número da População da Cidade: ");
     scanf("%d", &População2);
