@@ -12,7 +12,7 @@ int main(){
     int Pontos1;
 
     //carta 2
-    char Estado2[20];
+    char Estado2;
     char Código2[20];
     char Cidade2[20];
     int População2;
